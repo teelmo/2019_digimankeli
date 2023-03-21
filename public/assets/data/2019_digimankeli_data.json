@@ -1,0 +1,1303 @@
+{
+  "questions":[{
+    "answer_desc":"Ensimmäinen on oikein. Lyhenne GDPR tarkoittaa EU:n tietosuoja-asetusta. Se on lisännyt henkilötietojen suojaa ja keinoja hallita omia tietojamme.",
+    "choises":[{
+      "is_true":true,
+      "title":"General Data Protection Regulation"
+    },{
+      "is_true":false,
+      "title":"General Digital Process Rule"
+    },{
+      "is_true":false,
+      "title":"Google Data Property Restriction"
+    }],
+    "feedback":"<p><span class=\"correct hidden\"><i class=\"fa fa-check\"></i></span><span class=\"incorrect hidden\"><i class=\"fa fa-times\"></i></span><span class=\"answer_text correct hidden\">Oikea vastaus!</span><span class=\"answer_text incorrect hidden\">Väärä vastaus</span></p>",
+    "id":1,
+    "title":"Lyhenne GDPR tulee englannin sanoista "
+  },{
+    "answer_desc":"Emolevy on tietokoneen piirilevy, joka yhdistää koneen kaikki muut osat toisiinsa.",
+    "choises":[{
+      "is_true":true,
+      "title":"yhdistää koneen osat toisiinsa"
+    },{
+      "is_true":false,
+      "title":"on sen vanhin osa"
+    },{
+      "is_true":false,
+      "title":"soittaa melankolista musiikkia"
+    }],
+    "feedback":"<p><span class=\"correct hidden\"><i class=\"fa fa-check\"></i></span><span class=\"incorrect hidden\"><i class=\"fa fa-times\"></i></span><span class=\"answer_text correct hidden\">Oikea vastaus!</span><span class=\"answer_text incorrect hidden\">Väärä vastaus</span></p>",
+    "id":2,
+    "title":"Tietokoneen emolevy"
+  },{
+    "answer_desc":"Työpöytä on tietokoneen aloitusnäytön näkymä. Siltä löydät koneen hallitsemiseen ja ohjelmien käynnistykseen liittyviä kuvakkeita.",
+    "choises":[{
+      "is_true":true,
+      "title":"tietokoneen aloitusnäyttöä"
+    },{
+      "is_true":false,
+      "title":"irtotasoa, jolla voi pitää kannettavaa tietokonetta"
+    },{
+      "is_true":false,
+      "title":"sähköpöytää, jota voi nostaa ja laskea"
+    }],
+    "feedback":"<p><span class=\"correct hidden\"><i class=\"fa fa-check\"></i></span><span class=\"incorrect hidden\"><i class=\"fa fa-times\"></i></span><span class=\"answer_text correct hidden\">Oikea vastaus!</span><span class=\"answer_text incorrect hidden\">Väärä vastaus</span></p>",
+    "id":3,
+    "title":"Digikielessä työpöytä tarkoittaa"
+  },{
+    "answer_desc":"Lähde kertoo sen, mistä kuvasignaali tulee. Kaukosäätimellä valitaan lähteeksi esimerkiksi TV (televisio) tai joku television HDMI-porteista. HDMI-porttien kautta katsotaan esimerkiksi mediatoistimen, kuten Chromecastin kuvaa. Kaukosäätimen lähde-napissa lukee yleensä Source tai Input.",
+    "choises":[{
+      "is_true":true,
+      "title":"valitaan, mistä kuvasignaali tulee"
+    },{
+      "is_true":false,
+      "title":"kuva tulee digiboksin kautta"
+    },{
+      "is_true":false,
+      "title":"alkaa dokumentti Suomen vesistöistä"
+    }],
+    "feedback":"<p><span class=\"correct hidden\"><i class=\"fa fa-check\"></i></span><span class=\"incorrect hidden\"><i class=\"fa fa-times\"></i></span><span class=\"answer_text correct hidden\">Oikea vastaus!</span><span class=\"answer_text incorrect hidden\">Väärä vastaus</span></p>",
+    "id":4,
+    "title":"Kun televisioon valitaan lähde"
+  },{
+    "answer_desc":"Läppäri on kannettava tietokone. Sana on väännös englannista (laptop).",
+    "choises":[{
+      "is_true":true,
+      "title":"kannettava tietokone"
+    },{
+      "is_true":false,
+      "title":"datan louhimiseen tarkoitettu työkalu"
+    },{
+      "is_true":false,
+      "title":"suomalainen Youtube-artisti"
+    }],
+    "feedback":"<p><span class=\"correct hidden\"><i class=\"fa fa-check\"></i></span><span class=\"incorrect hidden\"><i class=\"fa fa-times\"></i></span><span class=\"answer_text correct hidden\">Oikea vastaus!</span><span class=\"answer_text incorrect hidden\">Väärä vastaus</span></p>",
+    "id":5,
+    "title":"Läppäri on"
+  },{
+    "answer_desc":"Datan louhinnassa oleellinen tieto kaivetaan esiin suuresta joukosta dataa ja puretaan yleistajuisempaan muotoon. Myös virtuaalivaluuttoja louhitaan markkinoille. Se tapahtuu tietokoneilla arvaamalla monimutkainen numero.",
+    "choises":[{
+      "is_true":true,
+      "title":"dataa"
+    },{
+      "is_true":false,
+      "title":"harvinaisia maametalleja"
+    },{
+      "is_true":false,
+      "title":"profiilikuvia"
+    }],
+    "feedback":"<p><span class=\"correct hidden\"><i class=\"fa fa-check\"></i></span><span class=\"incorrect hidden\"><i class=\"fa fa-times\"></i></span><span class=\"answer_text correct hidden\">Oikea vastaus!</span><span class=\"answer_text incorrect hidden\">Väärä vastaus</span></p>",
+    "id":6,
+    "title":"Mitä digissä louhitaan?"
+  },{
+    "answer_desc":"WLAN tarkoittaa langatonta lähiverkkoa (wireless local area network). Yhdestä tavaramerkistä wifistä (tai wi-fi) on kuitenkin tullut sille synonyymi. Vlogi on videoblogi ja VOD- palvelusta voi katsoa videoita.",
+    "choises":[{
+      "is_true":true,
+      "title":"wifi"
+    },{
+      "is_true":false,
+      "title":"vlogi"
+    },{
+      "is_true":false,
+      "title":"VOD"
+    }],
+    "feedback":"<p><span class=\"correct hidden\"><i class=\"fa fa-check\"></i></span><span class=\"incorrect hidden\"><i class=\"fa fa-times\"></i></span><span class=\"answer_text correct hidden\">Oikea vastaus!</span><span class=\"answer_text incorrect hidden\">Väärä vastaus</span></p>",
+    "id":7,
+    "title":"Mikä näistä tarkoittaa arkikielessä samaa kuin WLAN?"
+  },{
+    "answer_desc":"Kummatkin olivat aikanaan suosittuja levykkeitä eli muistilevyjä. Taipuisalle lerppulle mahtui 170 kilotavua per puoli. Jämäkälle korpulle mahtui parhaimmillaan 3,5 MT eli yhden hyvälaatuisen nykykuvan verran.",
+    "choises":[{
+      "is_true":true,
+      "title":"muistikortin edeltäjiä"
+    },{
+      "is_true":false,
+      "title":"Nokian puhelinmalleja"
+    },{
+      "is_true":false,
+      "title":"Wilma-järjestelmän aiempia versioita"
+    }],
+    "feedback":"<p><span class=\"correct hidden\"><i class=\"fa fa-check\"></i></span><span class=\"incorrect hidden\"><i class=\"fa fa-times\"></i></span><span class=\"answer_text correct hidden\">Oikea vastaus!</span><span class=\"answer_text incorrect hidden\">Väärä vastaus</span></p>",
+    "id":8,
+    "title":"Mitä olivat korput ja lerput?"
+  },{
+    "answer_desc":"Kirjaimet ICE tarkoittavat hätätilannetta (In Case of Emergency). ICE-henkilö on siis perheenjäsen tai muu, jolle voi soittaa hädän tullen.",
+    "choises":[{
+      "is_true":true,
+      "title":"soita tälle henkilölle hätätilanteessa"
+    },{
+      "is_true":false,
+      "title":"merkintä puhelimen omistajasta"
+    },{
+      "is_true":false,
+      "title":"estetty henkilö"
+    }],
+    "feedback":"<p><span class=\"correct hidden\"><i class=\"fa fa-check\"></i></span><span class=\"incorrect hidden\"><i class=\"fa fa-times\"></i></span><span class=\"answer_text correct hidden\">Oikea vastaus!</span><span class=\"answer_text incorrect hidden\">Väärä vastaus</span></p>",
+    "id":9,
+    "title":"Mitä tarkoittaa merkintä ICE puhelimen yhteystiedoissa?"
+  },{
+    "answer_desc":"Instagram on Facebookin emoyhtiön omistama sosiaalisen median palvelu. Sinne lisätään sisältöä muun muassa storyina eli tarinoina tai kelavideoina eli reelseinä. Snäpit kuuluvat toiseen somepalveluun, Snapchatiin.",
+    "choises":[{
+      "is_true":true,
+      "title":"snäppi"
+    },{
+      "is_true":false,
+      "title":"kela (reels)"
+    },{
+      "is_true":false,
+      "title":"tarina (story)"
+    }],
+    "feedback":"<p><span class=\"correct hidden\"><i class=\"fa fa-check\"></i></span><span class=\"incorrect hidden\"><i class=\"fa fa-times\"></i></span><span class=\"answer_text correct hidden\">Oikea vastaus!</span><span class=\"answer_text incorrect hidden\">Väärä vastaus</span></p>",
+    "id":100,
+    "title":"Mikä seuraavista EI liity Instagramiin?"
+  },{
+    "answer_desc":"\"Nähdään IRL\" tarkoittaa henkilön tapaamista ihan fyysisesti. Lyhenne tulee englannin sanoista In Real Life.",
+    "choises":[{
+      "is_true":true,
+      "title":"todellisessa elämässä"
+    },{
+      "is_true":false,
+      "title":"minä en valehtele"
+    },{
+      "is_true":false,
+      "title":"hyvässä seurassa"
+    }],
+    "feedback":"<p><span class=\"correct hidden\"><i class=\"fa fa-check\"></i></span><span class=\"incorrect hidden\"><i class=\"fa fa-times\"></i></span><span class=\"answer_text correct hidden\">Oikea vastaus!</span><span class=\"answer_text incorrect hidden\">Väärä vastaus</span></p>",
+    "id":111,
+    "title":"Mitä tarkoittaa lyhenne IRL?"
+  },{
+    "answer_desc":"Kaatuminen tarkoittaa tietokoneohjelman tai käyttöjärjestelmän yllättävää häiriötilannetta, jolloin ohjelma lopettaa toimimisen.",
+    "choises":[{
+      "is_true":true,
+      "title":"yllättävää häiriötilannetta"
+    },{
+      "is_true":false,
+      "title":"seuraajien äkillistä menettämistä"
+    },{
+      "is_true":false,
+      "title":"sisältöjen jakamista suuria määriä kerrallaan"
+    }],
+    "feedback":"<p><span class=\"correct hidden\"><i class=\"fa fa-check\"></i></span><span class=\"incorrect hidden\"><i class=\"fa fa-times\"></i></span><span class=\"answer_text correct hidden\">Oikea vastaus!</span><span class=\"answer_text incorrect hidden\">Väärä vastaus</span></p>",
+    "id":122,
+    "title":"Mitä kaatuminen tarkoittaa tietokonemaailmassa?"
+  },{
+    "answer_desc":"Terabitti on biljoona (eli tuhat miljardia) bittiä. Gigabitti on miljardi bittiä ja megabitti miljoona bittiä.",
+    "choises":[{
+      "is_true":true,
+      "title":"terabitti"
+    },{
+      "is_true":false,
+      "title":"gigabitti"
+    },{
+      "is_true":false,
+      "title":"megabitti"
+    }],
+    "feedback":"<p><span class=\"correct hidden\"><i class=\"fa fa-check\"></i></span><span class=\"incorrect hidden\"><i class=\"fa fa-times\"></i></span><span class=\"answer_text correct hidden\">Oikea vastaus!</span><span class=\"answer_text incorrect hidden\">Väärä vastaus</span></p>",
+    "id":133,
+    "title":"Mikä näistä on suurin?"
+  },{
+    "answer_desc":"Kirjautumisesta käytetään myös nimitystä loggaus. Lagaaminen tarkoittaa laitteen tai ohjelman hidastelua ja klikkaaminen hiirellä napsauttamista.",
+    "choises":[{
+      "is_true":true,
+      "title":"loggautua"
+    },{
+      "is_true":false,
+      "title":"lagata"
+    },{
+      "is_true":false,
+      "title":"klikata"
+    }],
+    "feedback":"<p><span class=\"correct hidden\"><i class=\"fa fa-check\"></i></span><span class=\"incorrect hidden\"><i class=\"fa fa-times\"></i></span><span class=\"answer_text correct hidden\">Oikea vastaus!</span><span class=\"answer_text incorrect hidden\">Väärä vastaus</span></p>",
+    "id":144,
+    "title":"Mikä näistä sanoista tarkoittaa kirjautumista?"
+  },{
+    "answer_desc":"Microsoft on yritys, jonka päätoimiala on ohjelmistot, kuten Windows -käyttöjärjestelmä.",
+    "choises":[{
+      "is_true":true,
+      "title":"Microsoft"
+    },{
+      "is_true":false,
+      "title":"iOS"
+    },{
+      "is_true":false,
+      "title":"Linux"
+    }],
+    "feedback":"<p><span class=\"correct hidden\"><i class=\"fa fa-check\"></i></span><span class=\"incorrect hidden\"><i class=\"fa fa-times\"></i></span><span class=\"answer_text correct hidden\">Oikea vastaus!</span><span class=\"answer_text incorrect hidden\">Väärä vastaus</span></p>",
+    "id":155,
+    "title":"Mikä seuraavista EI ole käyttöjärjestelmä?"
+  },{
+    "answer_desc":"Lyhenne yv on käytössä sosiaalisessa mediassa ja se tarkoittaa kahdenkeskistä viestiä.",
+    "choises":[{
+      "is_true":true,
+      "title":"yksityisviesti"
+    },{
+      "is_true":false,
+      "title":"yritysvideo"
+    },{
+      "is_true":false,
+      "title":"yöajan varoitus"
+    }],
+    "feedback":"<p><span class=\"correct hidden\"><i class=\"fa fa-check\"></i></span><span class=\"incorrect hidden\"><i class=\"fa fa-times\"></i></span><span class=\"answer_text correct hidden\">Oikea vastaus!</span><span class=\"answer_text incorrect hidden\">Väärä vastaus</span></p>",
+    "id":166,
+    "title":"Mitä tarkoittaa lyhenne yv?"
+  },{
+    "answer_desc":"Mobiilipankkia käytetään kännykän tai tabletin sovelluksella. Verkkopankkiin mennään nettiselaimella (esim. Chrome, Firefox, Safari). Ne ovat yhtä turvallisia.",
+    "choises":[{
+      "is_true":true,
+      "title":"mobiilipankkia käytetään sovelluksella, verkkopankkia selaimella"
+    },{
+      "is_true":false,
+      "title":"mobiilipankki on turvallisempi"
+    },{
+      "is_true":false,
+      "title":"verkkopankki on turvallisempi"
+    }],
+    "feedback":"<p><span class=\"correct hidden\"><i class=\"fa fa-check\"></i></span><span class=\"incorrect hidden\"><i class=\"fa fa-times\"></i></span><span class=\"answer_text correct hidden\">Oikea vastaus!</span><span class=\"answer_text incorrect hidden\">Väärä vastaus</span></p>",
+    "id":177,
+    "title":"Mitä eroa on verkkopankilla ja mobiilipankilla?"
+  },{
+    "answer_desc":"Konsoli on viihde-elektroniikan laite, jolla pelataan videopelejä. Yleensä pelikonsolia ohjataan peliohjaimella.",
+    "choises":[{
+      "is_true":true,
+      "title":"videopelaamiseen tarkoitettu laite"
+    },{
+      "is_true":false,
+      "title":"lohduttava hahmo sosiaalisessa mediassa"
+    },{
+      "is_true":false,
+      "title":"eväste, joka seuraa netin käyttöäsi"
+    }],
+    "feedback":"<p><span class=\"correct hidden\"><i class=\"fa fa-check\"></i></span><span class=\"incorrect hidden\"><i class=\"fa fa-times\"></i></span><span class=\"answer_text correct hidden\">Oikea vastaus!</span><span class=\"answer_text incorrect hidden\">Väärä vastaus</span></p>",
+    "id":188,
+    "title":"Mikä on konsoli?"
+  },{
+    "answer_desc":"Rekisteröityminen tehdään periaatteessa vain kerran - kun verkkopalveluun luodaan omat tunnukset. Tunnuksilla kirjaudutaan palveluun aina, kun siellä halutaan asioida. Tunnuksiin kuuluu salasana, joka on luotu rekisteröityessä. Kirjautuessa siis tarvitaan salasana.",
+    "choises":[{
+      "is_true":true,
+      "title":"rekisteröityminen tehdään vain kerran, kirjautuminen aina uudestaan"
+    },{
+      "is_true":false,
+      "title":"vain rekisteröitymisessä tarvitaan salasanaa"
+    },{
+      "is_true":false,
+      "title":"ei mitään"
+    }],
+    "feedback":"<p><span class=\"correct hidden\"><i class=\"fa fa-check\"></i></span><span class=\"incorrect hidden\"><i class=\"fa fa-times\"></i></span><span class=\"answer_text correct hidden\">Oikea vastaus!</span><span class=\"answer_text incorrect hidden\">Väärä vastaus</span></p>",
+    "id":199,
+    "title":"Mitä eroa on kirjautumisella ja rekisteröitymisellä?"
+  },{
+    "answer_desc":"Varmennekortti on eräänlainen kansalaisvarmenne, joka sijaitsee poliisin myöntämässä sähköisessä eli sirullisesssa henkilökortissa. Varmennekortin käyttö vaatii erillisen kortinlukijan, joten se on jäänyt hyvin vähäiseksi.",
+    "choises":[{
+      "is_true":true,
+      "title":"sähköinen henkilökortti"
+    },{
+      "is_true":false,
+      "title":"tietokoneen osa, joka suojaa nettiurkinnalta"
+    },{
+      "is_true":false,
+      "title":"kännykän SIM-kortti"
+    }],
+    "feedback":"<p><span class=\"correct hidden\"><i class=\"fa fa-check\"></i></span><span class=\"incorrect hidden\"><i class=\"fa fa-times\"></i></span><span class=\"answer_text correct hidden\">Oikea vastaus!</span><span class=\"answer_text incorrect hidden\">Väärä vastaus</span></p>",
+    "id":200,
+    "title":"Mikä on varmennekortti?"
+  },{
+    "answer_desc":"Pleikka tarkoitttaa puhekielessä PlayStation-pelikonsolia.",
+    "choises":[{
+      "is_true":true,
+      "title":"pelataan videopeliä"
+    },{
+      "is_true":false,
+      "title":"kuunnellaan podcastia"
+    },{
+      "is_true":false,
+      "title":"avataan tietokoneen kotelon ruuvit"
+    }],
+    "feedback":"<p><span class=\"correct hidden\"><i class=\"fa fa-check\"></i></span><span class=\"incorrect hidden\"><i class=\"fa fa-times\"></i></span><span class=\"answer_text correct hidden\">Oikea vastaus!</span><span class=\"answer_text incorrect hidden\">Väärä vastaus</span></p>",
+    "id":211,
+    "title":"Mitä tehdään, kun otetaan pleikka esiin?"
+  },{
+    "answer_desc":"Sovellukset kannattaa ladata oman laitteen sovelluskaupasta (Android-laittteilla Play Kauppa ja Applen laitteilla App Store). Vain osa sovelluksista on maksullisia. Oma tili luodaan Googleen tai Appleen, ei erikseen sovelluskauppaan.",
+    "choises":[{
+      "is_true":true,
+      "title":"se on turvallisin paikka sovellusten lataamiseen"
+    },{
+      "is_true":false,
+      "title":"siellä kaikki on maksullista"
+    },{
+      "is_true":false,
+      "title":"sinne pitää luoda oma tili"
+    }],
+    "feedback":"<p><span class=\"correct hidden\"><i class=\"fa fa-check\"></i></span><span class=\"incorrect hidden\"><i class=\"fa fa-times\"></i></span><span class=\"answer_text correct hidden\">Oikea vastaus!</span><span class=\"answer_text incorrect hidden\">Väärä vastaus</span></p>",
+    "id":222,
+    "title":"Mikä näistä kuvaa sovelluskauppaa?"
+  },{
+    "answer_desc":"Bitti on englanniksi bit. Se on tiedon pienin käsiteltävä osa. Englannin byte tarkoittaa tavua, ja se sisältää kahdeksan bittiä. Bitit ja tavut sekoitetaan usein.",
+    "choises":[{
+      "is_true":true,
+      "title":"bit"
+    },{
+      "is_true":false,
+      "title":"byte"
+    },{
+      "is_true":false,
+      "title":"beat"
+    }],
+    "feedback":"<p><span class=\"correct hidden\"><i class=\"fa fa-check\"></i></span><span class=\"incorrect hidden\"><i class=\"fa fa-times\"></i></span><span class=\"answer_text correct hidden\">Oikea vastaus!</span><span class=\"answer_text incorrect hidden\">Väärä vastaus</span></p>",
+    "id":233,
+    "title":"Mitä bitti on englanniksi?"
+  },{
+    "answer_desc":"Tasohiiri on kannettavan tietokoneen kiinteä hiiri, jota ohjataan sormenpäillä.",
+    "choises":[{
+      "is_true":true,
+      "title":"kannettavan tietokoneen kiinteä hiiri"
+    },{
+      "is_true":false,
+      "title":"yksi hahmo videopelissä"
+    },{
+      "is_true":false,
+      "title":"silmässä välkkyvä piste, kun on katsellut puhelinta liian pitkään"
+    }],
+    "feedback":"<p><span class=\"correct hidden\"><i class=\"fa fa-check\"></i></span><span class=\"incorrect hidden\"><i class=\"fa fa-times\"></i></span><span class=\"answer_text correct hidden\">Oikea vastaus!</span><span class=\"answer_text incorrect hidden\">Väärä vastaus</span></p>",
+    "id":244,
+    "title":"Mikä on tasohiiri?"
+  },{
+    "answer_desc":"Tietokoneet ja älylaitteiden sininen keinovalo muistuttaa auringonvaloa, joten elimistö tulkitsee sen päivänvaloksi. Datailu ennen nukkumaanmenoa voi sekoittaa unirytmin.",
+    "choises":[{
+      "is_true":true,
+      "title":"pitää hereillä"
+    },{
+      "is_true":false,
+      "title":"vahingoittaa silmiä"
+    },{
+      "is_true":false,
+      "title":"aiheuttaa stressiä"
+    }],
+    "feedback":"<p><span class=\"correct hidden\"><i class=\"fa fa-check\"></i></span><span class=\"incorrect hidden\"><i class=\"fa fa-times\"></i></span><span class=\"answer_text correct hidden\">Oikea vastaus!</span><span class=\"answer_text incorrect hidden\">Väärä vastaus</span></p>",
+    "id":255,
+    "title":"Mitä sinivalo tekee?"
+  },{
+    "answer_desc":"Näistä vain Firefox - myös Mozilla Firefoxina tunnettu - on selain. Atari on videopelifirma. Google on monialayritys ja se omistaa Chrome-selaimen.",
+    "choises":[{
+      "is_true":true,
+      "title":"Firefox"
+    },{
+      "is_true":false,
+      "title":"Atari"
+    },{
+      "is_true":false,
+      "title":"Google"
+    }],
+    "feedback":"<p><span class=\"correct hidden\"><i class=\"fa fa-check\"></i></span><span class=\"incorrect hidden\"><i class=\"fa fa-times\"></i></span><span class=\"answer_text correct hidden\">Oikea vastaus!</span><span class=\"answer_text incorrect hidden\">Väärä vastaus</span></p>",
+    "id":266,
+    "title":"Mikä seuraavista on verkkoselain?"
+  },{
+    "answer_desc":"Kirjanmerkit ovat muistiin laitettuja linkkejä, joiden avulla on helppo palata omille suosikkisivuille. Käytännössä kirjanmerkki on sama asia kuin suosikki. Kirjanmerkin kuvakkeena on usein tähti.",
+    "choises":[{
+      "is_true":true,
+      "title":"linkkiä suosikkisivulle"
+    },{
+      "is_true":false,
+      "title":"e-kirjan varausta kirjastosta"
+    },{
+      "is_true":false,
+      "title":"kuittausta äänikirjan lukemisesta"
+    }],
+    "feedback":"<p><span class=\"correct hidden\"><i class=\"fa fa-check\"></i></span><span class=\"incorrect hidden\"><i class=\"fa fa-times\"></i></span><span class=\"answer_text correct hidden\">Oikea vastaus!</span><span class=\"answer_text incorrect hidden\">Väärä vastaus</span></p>",
+    "id":277,
+    "title":"Mitä kirjanmerkki digikielessä tarkoittaa?"
+  },{
+    "answer_desc":"Fontti on kirjasinlaji eli kirjasintyyppi, esimerkiksi Arial tai Open Sans. Valittu fontti ei ole yhdentekevä, koska se vaikuttaa viestin vastaanottoon.",
+    "choises":[{
+      "is_true":true,
+      "title":"kirjasinlaji"
+    },{
+      "is_true":false,
+      "title":"sähköinen allekirjoitus"
+    },{
+      "is_true":false,
+      "title":"ruokabloggaaja"
+    }],
+    "feedback":"<p><span class=\"correct hidden\"><i class=\"fa fa-check\"></i></span><span class=\"incorrect hidden\"><i class=\"fa fa-times\"></i></span><span class=\"answer_text correct hidden\">Oikea vastaus!</span><span class=\"answer_text incorrect hidden\">Väärä vastaus</span></p>",
+    "id":288,
+    "title":"Mikä on fontti?"
+  },{
+    "answer_desc":"Kuvakaappaus tarkoittaa näytöllä näkyvän kuvan tai sen osan tallentamista. Kuva tallentuu laitteen muistiin.",
+    "choises":[{
+      "is_true":true,
+      "title":"näytöllä olevan kuvan tallentamista"
+    },{
+      "is_true":false,
+      "title":"netistä löytyvän valokuvan käyttöä"
+    },{
+      "is_true":false,
+      "title":"toisen ihmisen profiilikuvan vaihtamista"
+    }],
+    "feedback":"<p><span class=\"correct hidden\"><i class=\"fa fa-check\"></i></span><span class=\"incorrect hidden\"><i class=\"fa fa-times\"></i></span><span class=\"answer_text correct hidden\">Oikea vastaus!</span><span class=\"answer_text incorrect hidden\">Väärä vastaus</span></p>",
+    "id":299,
+    "title":"Mitä tarkoittaa kuvakaappaus?"
+  },{
+    "answer_desc":"Ponnahdusikkuna on pienikokoinen ikkuna, joka pompahtaa itsestään auki nettisivulla. Sillä voi olla esimerkiksi mainoksia, lisätietoja tai suurempi näkymä kuvasta.",
+    "choises":[{
+      "is_true":true,
+      "title":"ilmestyy itsestään näytölle"
+    },{
+      "is_true":false,
+      "title":"asentaa laitteeseen haittaohjelman"
+    },{
+      "is_true":false,
+      "title":"estää somen käytön"
+    }],
+    "feedback":"<p><span class=\"correct hidden\"><i class=\"fa fa-check\"></i></span><span class=\"incorrect hidden\"><i class=\"fa fa-times\"></i></span><span class=\"answer_text correct hidden\">Oikea vastaus!</span><span class=\"answer_text incorrect hidden\">Väärä vastaus</span></p>",
+    "id":300,
+    "title":"Mitä ponnahdusikkuna tekee?"
+  },{
+    "answer_desc":"Sheets eli Google Sheets on Googlen taulukkkolaskentaohjelma. Se on tietokoneohjelma, jolla käsitellään numeerista tietoa. Microsoftin Excel kuuluu myös tunnettuihin taulukkolaskentaohjelmiin.",
+    "choises":[{
+      "is_true":true,
+      "title":"taulukkolaskentaohjelma"
+    },{
+      "is_true":false,
+      "title":"hotellivaraussivusto"
+    },{
+      "is_true":false,
+      "title":"e-urheilujoukkue"
+    }],
+    "feedback":"<p><span class=\"correct hidden\"><i class=\"fa fa-check\"></i></span><span class=\"incorrect hidden\"><i class=\"fa fa-times\"></i></span><span class=\"answer_text correct hidden\">Oikea vastaus!</span><span class=\"answer_text incorrect hidden\">Väärä vastaus</span></p>",
+    "id":311,
+    "title":"Mikä on Sheets?"
+  },{
+    "answer_desc":"Lyhenne tulee englannista. Sms-tekstiviestit mullistivat aikanaan puhelimen käytön. Ne toimivat edelleen kaikissa puhelinmerkeissä. Sms-viestit eivät tarvitse internet-yhteyttä.",
+    "choises":[{
+      "is_true":true,
+      "title":"short message service"
+    },{
+      "is_true":false,
+      "title":"supermobiilisovellus"
+    },{
+      "is_true":false,
+      "title":"sosiaalisen median synkronointi"
+    }],
+    "feedback":"<p><span class=\"correct hidden\"><i class=\"fa fa-check\"></i></span><span class=\"incorrect hidden\"><i class=\"fa fa-times\"></i></span><span class=\"answer_text correct hidden\">Oikea vastaus!</span><span class=\"answer_text incorrect hidden\">Väärä vastaus</span></p>",
+    "id":322,
+    "title":"Mistä tulee lyhenne sms?"
+  },{
+    "answer_desc":"Synkronointi tarkoittaa sitä, että samat tiedot näkyvät eri laitteissa tai ohjelmissa. Synkronointi tapahtuu pilvipalvelun tai tietokannan kautta.",
+    "choises":[{
+      "is_true":true,
+      "title":"tietojen päivittämistä laitteiden välillä"
+    },{
+      "is_true":false,
+      "title":"saman sisällön julkaisemista eri alustoilla"
+    },{
+      "is_true":false,
+      "title":"samaan aikaan tapahtuva haittaohjelmahyökkäys"
+    }],
+    "feedback":"<p><span class=\"correct hidden\"><i class=\"fa fa-check\"></i></span><span class=\"incorrect hidden\"><i class=\"fa fa-times\"></i></span><span class=\"answer_text correct hidden\">Oikea vastaus!</span><span class=\"answer_text incorrect hidden\">Väärä vastaus</span></p>",
+    "id":333,
+    "title":"Mitä on synkronointi?"
+  },{
+    "answer_desc":"Kaksivaiheisessa tunnistautumisessa annetaan käyttäjätunnus-salasana-parin lisäksi yksi ylimääräinen koodi. Se voi olla esimerkiksi puhelimeen tuleva vaihtuva koodi. Tämä parantaa tietosuojaa.",
+    "choises":[{
+      "is_true":true,
+      "title":"tunnistautuessa annetaan yksi koodi tai tieto lisää"
+    },{
+      "is_true":false,
+      "title":"salasanaa ei enää tarvita"
+    },{
+      "is_true":false,
+      "title":"käyttäjätunnus vaihtuu joka kerralla"
+    }],
+    "feedback":"<p><span class=\"correct hidden\"><i class=\"fa fa-check\"></i></span><span class=\"incorrect hidden\"><i class=\"fa fa-times\"></i></span><span class=\"answer_text correct hidden\">Oikea vastaus!</span><span class=\"answer_text incorrect hidden\">Väärä vastaus</span></p>",
+    "id":344,
+    "title":"Mitä tarkoittaa kaksivaiheinen tunnistautuminen?"
+  },{
+    "answer_desc":"Offline tarkoittaa ilman internet-yhteyttä toimivaa. Esimerkiksi karttoja voi ladata offline-versiona puhelimen muistiin. Myös laitteelle ladattuja muita sisältöjä voi käyttää ilman nettiyhteyttä.",
+    "choises":[{
+      "is_true":true,
+      "title":"nettiyhteys ei ole auki"
+    },{
+      "is_true":false,
+      "title":"akku on lopussa"
+    },{
+      "is_true":false,
+      "title":"nettiyhteys pätkii"
+    }],
+    "feedback":"<p><span class=\"correct hidden\"><i class=\"fa fa-check\"></i></span><span class=\"incorrect hidden\"><i class=\"fa fa-times\"></i></span><span class=\"answer_text correct hidden\">Oikea vastaus!</span><span class=\"answer_text incorrect hidden\">Väärä vastaus</span></p>",
+    "id":355,
+    "title":"Mitä tarkoittaa offline?"
+  },{
+    "answer_desc":"Suomi.fi-sivusto tarjoaa tietoa kansalaisen palveluista. Sieltä löytyy Suomi.fi-tunnistus, jonka kautta kirjaudutaan julkisiin palveluihin sekä Suomi.fi-viestit eli kansalaisen sähköinen postilaatikko.",
+    "choises":[{
+      "is_true":true,
+      "title":"kansalaisen verkkosivusto"
+    },{
+      "is_true":false,
+      "title":"suosittu keskustelupalsta"
+    },{
+      "is_true":false,
+      "title":"valtioneuvoston verkkosivu"
+    }],
+    "feedback":"<p><span class=\"correct hidden\"><i class=\"fa fa-check\"></i></span><span class=\"incorrect hidden\"><i class=\"fa fa-times\"></i></span><span class=\"answer_text correct hidden\">Oikea vastaus!</span><span class=\"answer_text incorrect hidden\">Väärä vastaus</span></p>",
+    "id":366,
+    "title":"Mikä on suomi.fi?"
+  },{
+    "answer_desc":"Arkisessa digikielessä suodatin eli filtteri liittyy kuvien käsittelyyn sosiaalisessa mediassa: Valokuviin ja videoihin voi lisätä suodattimilla esimerkiksi sävyjä tai vaikka suurentaa silmiä.",
+    "choises":[{
+      "is_true":true,
+      "title":"kuvan sävyt muuttuvat"
+    },{
+      "is_true":false,
+      "title":"kuva näkyy sosiaalisessa mediassa vain seuraajille"
+    },{
+      "is_true":false,
+      "title":"kuvan tekijänoikeudet lakkaavat olemasta voimassa"
+    }],
+    "feedback":"<p><span class=\"correct hidden\"><i class=\"fa fa-check\"></i></span><span class=\"incorrect hidden\"><i class=\"fa fa-times\"></i></span><span class=\"answer_text correct hidden\">Oikea vastaus!</span><span class=\"answer_text incorrect hidden\">Väärä vastaus</span></p>",
+    "id":377,
+    "title":"Mitä tapahtuu, kun valokuvaan lisätään filtteri?"
+  },{
+    "answer_desc":"Kun tabletit tulivat myyntiin vuonna 2010, niistä käytettiin lukuisia nimiä, kuten sormitietokone, täppäri ja härpätin.",
+    "choises":[{
+      "is_true":true,
+      "title":"sormitietokone"
+    },{
+      "is_true":false,
+      "title":"näppäri"
+    },{
+      "is_true":false,
+      "title":"tärpetti"
+    }],
+    "feedback":"<p><span class=\"correct hidden\"><i class=\"fa fa-check\"></i></span><span class=\"incorrect hidden\"><i class=\"fa fa-times\"></i></span><span class=\"answer_text correct hidden\">Oikea vastaus!</span><span class=\"answer_text incorrect hidden\">Väärä vastaus</span></p>",
+    "id":388,
+    "title":"Mitä suomenkielistä nimeä tabletille aikanaan ehdotettiin?"
+  },{
+    "answer_desc":"Telegram on Whatsappin kaltainen pikaviestisovellus. Se toimii edelleen Venäjällä, vaikka valtio on yrittänyt kieltää sen. Telegramin erikoisuutena ovat kanavat, joissa voi lähettää viestejä yksisuuntaisesti seuraajajoukolle.",
+    "choises":[{
+      "is_true":true,
+      "title":"yksi Whatsappin kilpailijoista"
+    },{
+      "is_true":false,
+      "title":"Venäjän valtion viestintäkanava"
+    },{
+      "is_true":false,
+      "title":"sovellus, jolla haetaan postinumeroita"
+    }],
+    "feedback":"<p><span class=\"correct hidden\"><i class=\"fa fa-check\"></i></span><span class=\"incorrect hidden\"><i class=\"fa fa-times\"></i></span><span class=\"answer_text correct hidden\">Oikea vastaus!</span><span class=\"answer_text incorrect hidden\">Väärä vastaus</span></p>",
+    "id":399,
+    "title":"Mikä on Telegram?"
+  },{
+    "answer_desc":"PowerPoint on Microsoftin esitysgrafiikkaohjelma. Esitys muodostuu dioista, jotka voivat sisältää muun muassa tekstiä, kuvia ja ääntä.",
+    "choises":[{
+      "is_true":true,
+      "title":"kuvallinen esitys, jossa on peräkkäisiä dioja"
+    },{
+      "is_true":false,
+      "title":"nettisivu, jolla on käyttäjää voimaannuttavia kuvia"
+    },{
+      "is_true":false,
+      "title":"video, jossa vertaillaan akkujen kestoa"
+    }],
+    "feedback":"<p><span class=\"correct hidden\"><i class=\"fa fa-check\"></i></span><span class=\"incorrect hidden\"><i class=\"fa fa-times\"></i></span><span class=\"answer_text correct hidden\">Oikea vastaus!</span><span class=\"answer_text incorrect hidden\">Väärä vastaus</span></p>",
+    "id":400,
+    "title":"\"Teen siitä PowerPointin\". Mitä silloin syntyy?"
+  },{
+    "answer_desc":"Hotspot tarkoittaa yhteyspistettä, joka toimii mobiiltukiasemana. Kännykän mobiilidatayhteyden saa jaettua muihin laitteisiin, kun laittaa hotspotin päälle.",
+    "choises":[{
+      "is_true":true,
+      "title":"mobiilitukiasemaa"
+    },{
+      "is_true":false,
+      "title":"painiketta, joka reagoi sormenpään lämpöön"
+    },{
+      "is_true":false,
+      "title":"se on varoitus akun ylilatautumisesta"
+    }],
+    "feedback":"<p><span class=\"correct hidden\"><i class=\"fa fa-check\"></i></span><span class=\"incorrect hidden\"><i class=\"fa fa-times\"></i></span><span class=\"answer_text correct hidden\">Oikea vastaus!</span><span class=\"answer_text incorrect hidden\">Väärä vastaus</span></p>",
+    "id":411,
+    "title":"Mitä laitteiden asetuksista löytyvä hotspot tarkoittaa?"
+  },{
+    "answer_desc":"Verkossa kalastelu tarkoittaa luottamuksellisten tietojen urkkimista rikollisiin tarkoituksiin. Se on väännös englannin sanasta phishing.",
+    "choises":[{
+      "is_true":true,
+      "title":"tietojen urkintaan"
+    },{
+      "is_true":false,
+      "title":"seuran hakemiseen"
+    },{
+      "is_true":false,
+      "title":"suljettuihin Facebook-ryhmiin"
+    }],
+    "feedback":"<p><span class=\"correct hidden\"><i class=\"fa fa-check\"></i></span><span class=\"incorrect hidden\"><i class=\"fa fa-times\"></i></span><span class=\"answer_text correct hidden\">Oikea vastaus!</span><span class=\"answer_text incorrect hidden\">Väärä vastaus</span></p>",
+    "id":422,
+    "title":"Netissä kalastelu liittyy"
+  },{
+    "answer_desc":"Lifi on langaton, optinen tiedonsiirtotekniikka, jossa LED-lampun valo siirtää dataa. Käyttötarkoitukset ovat samoja kuin vanhemmalla langattomalla tekniikalla eli wifilllä (= wlan), joka käyttää radioaaltoja. Li-fi on lyhenne englannin sanoista Light Fidelity.",
+    "choises":[{
+      "is_true":true,
+      "title":"lifi"
+    },{
+      "is_true":false,
+      "title":"wili"
+    },{
+      "is_true":false,
+      "title":"liwi"
+    }],
+    "feedback":"<p><span class=\"correct hidden\"><i class=\"fa fa-check\"></i></span><span class=\"incorrect hidden\"><i class=\"fa fa-times\"></i></span><span class=\"answer_text correct hidden\">Oikea vastaus!</span><span class=\"answer_text incorrect hidden\">Väärä vastaus</span></p>",
+    "id":433,
+    "title":"Mikä seuraavista tarkoittaa valodataa?"
+  },{
+    "answer_desc":"Linux on suomalaisen Linus Torvaldsin kehittämä käyttöjärjestelmien perhe. Se toimii muun muassa tietokoneissa, mobillilaitteissa ja pelikonsoleissa. Kännyköiden yleisin käyttöjärjestelmä Android on kehitetty Linuxin pohjalle.",
+    "choises":[{
+      "is_true":true,
+      "title":"Linux"
+    },{
+      "is_true":false,
+      "title":"Microsoft"
+    },{
+      "is_true":false,
+      "title":"F-secure"
+    }],
+    "feedback":"<p><span class=\"correct hidden\"><i class=\"fa fa-check\"></i></span><span class=\"incorrect hidden\"><i class=\"fa fa-times\"></i></span><span class=\"answer_text correct hidden\">Oikea vastaus!</span><span class=\"answer_text incorrect hidden\">Väärä vastaus</span></p>",
+    "id":444,
+    "title":"Mikä näistä on suomalaisen Linus Torvaldsin kehittämä käyttöjärjestelmä?"
+  },{
+    "answer_desc":"Looppaus tarkoittaa digitaalisen sisällön jatkuvaa toistoa: esimerkiksi animaatio tai musiikkipätkä alkavat itsestään alusta yhä uudelleen.",
+    "choises":[{
+      "is_true":true,
+      "title":"sisällön jatkuvaa toistoa"
+    },{
+      "is_true":false,
+      "title":"satunnaista valintaa"
+    },{
+      "is_true":false,
+      "title":"kiertoviestien lähettämistä"
+    }],
+    "feedback":"<p><span class=\"correct hidden\"><i class=\"fa fa-check\"></i></span><span class=\"incorrect hidden\"><i class=\"fa fa-times\"></i></span><span class=\"answer_text correct hidden\">Oikea vastaus!</span><span class=\"answer_text incorrect hidden\">Väärä vastaus</span></p>",
+    "id":455,
+    "title":"Mitä looppaus tarkoittaa?"
+  },{
+    "answer_desc":"Forwardointi on esimerkiksi tiedoston tai sähköpostin lähettämistä eteenpäin jollekin kolmannelle osapuolelle. Verbi on englannin \"to forward\".",
+    "choises":[{
+      "is_true":true,
+      "title":"viestin lähettämistä eteenpäin"
+    },{
+      "is_true":false,
+      "title":"viestiin vastaamista"
+    },{
+      "is_true":false,
+      "title":"viestin poistamista"
+    }],
+    "feedback":"<p><span class=\"correct hidden\"><i class=\"fa fa-check\"></i></span><span class=\"incorrect hidden\"><i class=\"fa fa-times\"></i></span><span class=\"answer_text correct hidden\">Oikea vastaus!</span><span class=\"answer_text incorrect hidden\">Väärä vastaus</span></p>",
+    "id":466,
+    "title":"Mitä forwardoiminen tarkoittaa?"
+  },{
+    "answer_desc":"Moderaattori on henkilö, joka valvoo internetissä käytävän keskustelun asiallisuutta",
+    "choises":[{
+      "is_true":true,
+      "title":"nettikeskustelujen valvominen"
+    },{
+      "is_true":false,
+      "title":"tietokoneiden asentaminen"
+    },{
+      "is_true":false,
+      "title":"nettisisällön jakaminen"
+    }],
+    "feedback":"<p><span class=\"correct hidden\"><i class=\"fa fa-check\"></i></span><span class=\"incorrect hidden\"><i class=\"fa fa-times\"></i></span><span class=\"answer_text correct hidden\">Oikea vastaus!</span><span class=\"answer_text incorrect hidden\">Väärä vastaus</span></p>",
+    "id":477,
+    "title":"Mikä on moderaattorin pääasiallinen tehtävä?"
+  },{
+    "answer_desc":"Edge on Microsoftin selain. Microsoftin vanhempi selain oli IE eli Internet Explorer. Sen käyttöä ei enää suositella.",
+    "choises":[{
+      "is_true":true,
+      "title":"Edge"
+    },{
+      "is_true":false,
+      "title":"Dune"
+    },{
+      "is_true":false,
+      "title":"Diamond"
+    }],
+    "feedback":"<p><span class=\"correct hidden\"><i class=\"fa fa-check\"></i></span><span class=\"incorrect hidden\"><i class=\"fa fa-times\"></i></span><span class=\"answer_text correct hidden\">Oikea vastaus!</span><span class=\"answer_text incorrect hidden\">Väärä vastaus</span></p>",
+    "id":488,
+    "title":"Mikä seuraavista on selain?"
+  },{
+    "answer_desc":"Zip on tiedostojen pakkausmenetelmä, jonka avulla suuret tiedostot voidaan pakata pienempään tilaan. Jos saat zip-tiedoston, voit purkaa sen sisällön omalla laitteellasi takaisin alkuperäiseen kokoonsa.",
+    "choises":[{
+      "is_true":true,
+      "title":"zip"
+    },{
+      "is_true":false,
+      "title":"zap"
+    },{
+      "is_true":false,
+      "title":"zup"
+    }],
+    "feedback":"<p><span class=\"correct hidden\"><i class=\"fa fa-check\"></i></span><span class=\"incorrect hidden\"><i class=\"fa fa-times\"></i></span><span class=\"answer_text correct hidden\">Oikea vastaus!</span><span class=\"answer_text incorrect hidden\">Väärä vastaus</span></p>",
+    "id":499,
+    "title":"Mikä kirjainyhdistelmä liittyy usein tiedon pakkaamiseen?"
+  },{
+    "answer_desc":"Digitaalisen kuvan pienin osa on pikseli. Digikuvien koko ilmaistaan vaaka- ja pystypikseleinä, esimerkiksi 1920 x 1080.  Kun kuva pikselöityy, pikselien ruudut alkavat näkyä.",
+    "choises":[{
+      "is_true":true,
+      "title":"pikseleistä"
+    },{
+      "is_true":false,
+      "title":"podcasteista"
+    },{
+      "is_true":false,
+      "title":"portaaleista"
+    }],
+    "feedback":"<p><span class=\"correct hidden\"><i class=\"fa fa-check\"></i></span><span class=\"incorrect hidden\"><i class=\"fa fa-times\"></i></span><span class=\"answer_text correct hidden\">Oikea vastaus!</span><span class=\"answer_text incorrect hidden\">Väärä vastaus</span></p>",
+    "id":500,
+    "title":"Mistä digitaalinen kuva koostuu?"
+  },{
+    "answer_desc":"Deletointi tarkoitaa tiedoston poistamista. Se tehdään roskakori-kuvakkeella tai Delete-näppäimellä.",
+    "choises":[{
+      "is_true":true,
+      "title":"poistamista"
+    },{
+      "is_true":false,
+      "title":"lataamista"
+    },{
+      "is_true":false,
+      "title":"jakamista"
+    }],
+    "feedback":"<p><span class=\"correct hidden\"><i class=\"fa fa-check\"></i></span><span class=\"incorrect hidden\"><i class=\"fa fa-times\"></i></span><span class=\"answer_text correct hidden\">Oikea vastaus!</span><span class=\"answer_text incorrect hidden\">Väärä vastaus</span></p>",
+    "id":511,
+    "title":"Mitä tarkoittaa deletointi?"
+  },{
+    "answer_desc":"Arkisessa digikielessä portti tarkoittaa liitäntää, johon toinen laite yhdistetään - yleensä johdolla. Yleisimpiä ovat USB- ja HDMI-portit. Television takana on useimmiten monta HDMI-porttia. URL on verkkosivun sijainnin ilmaiseva tunnus.",
+    "choises":[{
+      "is_true":true,
+      "title":"URL"
+    },{
+      "is_true":false,
+      "title":"USB"
+    },{
+      "is_true":false,
+      "title":"HDMI"
+    }],
+    "feedback":"<p><span class=\"correct hidden\"><i class=\"fa fa-check\"></i></span><span class=\"incorrect hidden\"><i class=\"fa fa-times\"></i></span><span class=\"answer_text correct hidden\">Oikea vastaus!</span><span class=\"answer_text incorrect hidden\">Väärä vastaus</span></p>",
+    "id":522,
+    "title":"Mikä seuraavista EI ole portti?"
+  },{
+    "answer_desc":"Pöytäkoneesta käytetään myös nimitystä deskari. Ilmaus tulee englannin sanoista desktop computer. Deskari on tietokone, jossa on erillinen näyttö, keskusyksikkö, näppäimistö ja muut oheislaitteet.",
+    "choises":[{
+      "is_true":true,
+      "title":"deskari"
+    },{
+      "is_true":false,
+      "title":"diskari"
+    },{
+      "is_true":false,
+      "title":"fiskari"
+    }],
+    "feedback":"<p><span class=\"correct hidden\"><i class=\"fa fa-check\"></i></span><span class=\"incorrect hidden\"><i class=\"fa fa-times\"></i></span><span class=\"answer_text correct hidden\">Oikea vastaus!</span><span class=\"answer_text incorrect hidden\">Väärä vastaus</span></p>",
+    "id":533,
+    "title":"Mikä seuraavista tarkoittaa pöytäkonetta?"
+  },{
+    "answer_desc":"Resetoinnilla voidaan tarkoittaa laitteen nollaamista eli alkutilaan asettamista tai uuden salasanan hankkimista unohtuneen tilalle. Roskapostin lähettämisestä käytetään myös nimeä spämmäys.",
+    "choises":[{
+      "is_true":true,
+      "title":"roskapostin lähettämistä"
+    },{
+      "is_true":false,
+      "title":"nollaamista"
+    },{
+      "is_true":false,
+      "title":"uuden salasanan hankkimista"
+    }],
+    "feedback":"<p><span class=\"correct hidden\"><i class=\"fa fa-check\"></i></span><span class=\"incorrect hidden\"><i class=\"fa fa-times\"></i></span><span class=\"answer_text correct hidden\">Oikea vastaus!</span><span class=\"answer_text incorrect hidden\">Väärä vastaus</span></p>",
+    "id":544,
+    "title":"Mitä näistä resetointi EI tarkoita?"
+  },{
+    "answer_desc":"Skrollaus tarkoittaa ruudulla näkyvän kuvan tai tekstin vierittämistä alas ja ylös.",
+    "choises":[{
+      "is_true":true,
+      "title":"skrollaus"
+    },{
+      "is_true":false,
+      "title":"skannaus "
+    },{
+      "is_true":false,
+      "title":"striimaus"
+    }],
+    "feedback":"<p><span class=\"correct hidden\"><i class=\"fa fa-check\"></i></span><span class=\"incorrect hidden\"><i class=\"fa fa-times\"></i></span><span class=\"answer_text correct hidden\">Oikea vastaus!</span><span class=\"answer_text incorrect hidden\">Väärä vastaus</span></p>",
+    "id":555,
+    "title":"Mikä näistä tarkoittaa ruudulla näkyvän kuvan vierittämistä?"
+  },{
+    "answer_desc":"Puhekielessä appi eli äppi viittaa yleensä puhelimella tai tabletilla käytettävään sovellukseen. Se tulee englannin sanasta app eli application.",
+    "choises":[{
+      "is_true":true,
+      "title":"appi"
+    },{
+      "is_true":false,
+      "title":"eno"
+    },{
+      "is_true":false,
+      "title":"mami"
+    }],
+    "feedback":"<p><span class=\"correct hidden\"><i class=\"fa fa-check\"></i></span><span class=\"incorrect hidden\"><i class=\"fa fa-times\"></i></span><span class=\"answer_text correct hidden\">Oikea vastaus!</span><span class=\"answer_text incorrect hidden\">Väärä vastaus</span></p>",
+    "id":566,
+    "title":"Mitä toisellakin sanalla kutsutaan sovellusta?"
+  },{
+    "answer_desc":"Spotify on ruotsalaisomisteinen musiikin ja podcastien suoratoistopalvelu.",
+    "choises":[{
+      "is_true":true,
+      "title":"musiikki"
+    },{
+      "is_true":false,
+      "title":"kirjat"
+    },{
+      "is_true":false,
+      "title":"videot"
+    }],
+    "feedback":"<p><span class=\"correct hidden\"><i class=\"fa fa-check\"></i></span><span class=\"incorrect hidden\"><i class=\"fa fa-times\"></i></span><span class=\"answer_text correct hidden\">Oikea vastaus!</span><span class=\"answer_text incorrect hidden\">Väärä vastaus</span></p>",
+    "id":577,
+    "title":"Mikä on Spotifyn keskeisintä sisältöä?"
+  },{
+    "answer_desc":"AI (artificial intelligence) tarkoittaa tekoälyä. IE (Internet Explorer) on vanhentunut verkkoselain. Varsinkin Tiktokissa käytetty POV (englannin sanoista ”point of view”) tarkoittaa oman näkökulman selittämistä muille tai mielikuvaa live-tilanteesta.",
+    "choises":[{
+      "is_true":true,
+      "title":"AI"
+    },{
+      "is_true":false,
+      "title":"IE"
+    },{
+      "is_true":false,
+      "title":"POV"
+    }],
+    "feedback":"<p><span class=\"correct hidden\"><i class=\"fa fa-check\"></i></span><span class=\"incorrect hidden\"><i class=\"fa fa-times\"></i></span><span class=\"answer_text correct hidden\">Oikea vastaus!</span><span class=\"answer_text incorrect hidden\">Väärä vastaus</span></p>",
+    "id":588,
+    "title":"Mikä kirjainyhdistelmä tarkoittaa tekoälyä?"
+  },{
+    "answer_desc":"Word ja Libre Office Writer ovat tekstinkäsittelyohjelmia, NotePad on yksinkertaisempi tekstieditori. Tekstieditorit on tarkoitettu ainoastaan tekstin kirjoittamiseen ja muokkaamiseen.",
+    "choises":[{
+      "is_true":true,
+      "title":"NotePad"
+    },{
+      "is_true":false,
+      "title":"Word"
+    },{
+      "is_true":false,
+      "title":"Libre Office Writer"
+    }],
+    "feedback":"<p><span class=\"correct hidden\"><i class=\"fa fa-check\"></i></span><span class=\"incorrect hidden\"><i class=\"fa fa-times\"></i></span><span class=\"answer_text correct hidden\">Oikea vastaus!</span><span class=\"answer_text incorrect hidden\">Väärä vastaus</span></p>",
+    "id":599,
+    "title":"Mikä näistä on tekstieditori?"
+  },{
+    "answer_desc":"Jpg-päätteinen tiedosto on kuva, jpeg samoin. Kaksi muuta päätettä kuuluu tekstitiedostoille: .txt (Muistio), .doc tai .docx (Microsoft Word).",
+    "choises":[{
+      "is_true":true,
+      "title":"jpg"
+    },{
+      "is_true":false,
+      "title":"txt"
+    },{
+      "is_true":false,
+      "title":"doc"
+    }],
+    "feedback":"<p><span class=\"correct hidden\"><i class=\"fa fa-check\"></i></span><span class=\"incorrect hidden\"><i class=\"fa fa-times\"></i></span><span class=\"answer_text correct hidden\">Oikea vastaus!</span><span class=\"answer_text incorrect hidden\">Väärä vastaus</span></p>",
+    "id":600,
+    "title":"Mikä näistä on tiedostomuodoista viittaa kuvatiedostoon?"
+  },{
+    "answer_desc":"Trollaus on verkkohäiriköintiä: Internetin palveluihin lähetetään viestejä, joiden tarkoituksena on saada muut käyttäjät reagoimaan voimakkaasti. Se tarkoittaa myös tarkoitushakuista vaikuttamista mielipiteisiin - erityisesti sosiaalisessa mediassa.",
+    "choises":[{
+      "is_true":true,
+      "title":"verkkohäiriköintiä"
+    },{
+      "is_true":false,
+      "title":"näytön sisällön liikuttamista ylös ja alas"
+    },{
+      "is_true":false,
+      "title":"pelaamista monta tuntia yhteen mittaan "
+    }],
+    "feedback":"<p><span class=\"correct hidden\"><i class=\"fa fa-check\"></i></span><span class=\"incorrect hidden\"><i class=\"fa fa-times\"></i></span><span class=\"answer_text correct hidden\">Oikea vastaus!</span><span class=\"answer_text incorrect hidden\">Väärä vastaus</span></p>",
+    "id":611,
+    "title":"Mitä on trollaus?"
+  },{
+    "answer_desc":"CVC on luottokortissa oleva 3-4 numeroinen turvakoodi. Koodi löytyy useimmiten kortin takaa ja sillä on tukku muitakin lyhenteitä: CVC2, CVV, CVV2.... Turvakoodi ei koskaan ole kohokirjaimilla, jotta sitä ei voisi koneellisesti lukea. TVT viitaa tieto- ja viestintätekniikkaan ja ICT samaan asiaan englanniksi (Information and Communication Technologies).",
+    "choises":[{
+      "is_true":true,
+      "title":"CVC"
+    },{
+      "is_true":false,
+      "title":"TVT"
+    },{
+      "is_true":false,
+      "title":"ICT"
+    }],
+    "feedback":"<p><span class=\"correct hidden\"><i class=\"fa fa-check\"></i></span><span class=\"incorrect hidden\"><i class=\"fa fa-times\"></i></span><span class=\"answer_text correct hidden\">Oikea vastaus!</span><span class=\"answer_text incorrect hidden\">Väärä vastaus</span></p>",
+    "id":622,
+    "title":"Mitkä maksukortissa näkyvät kirjaimet tarkoittavat turvakoodia?"
+  },{
+    "answer_desc":"Oletushakukone on se, jota käyttämäsi laite tai nettiselain oletuksena käyttää. Esimerkiksi Microsoftin laitteissa se on Bing. Kaikissa laitteissa ja selaimissa oletushakukonetta voi vaihtaa.",
+    "choises":[{
+      "is_true":true,
+      "title":"laitteesi tai selaimesi ensisijainen hakukone"
+    },{
+      "is_true":false,
+      "title":"Google"
+    },{
+      "is_true":false,
+      "title":"viimeksi käyttämäsi hakukone"
+    }],
+    "feedback":"<p><span class=\"correct hidden\"><i class=\"fa fa-check\"></i></span><span class=\"incorrect hidden\"><i class=\"fa fa-times\"></i></span><span class=\"answer_text correct hidden\">Oikea vastaus!</span><span class=\"answer_text incorrect hidden\">Väärä vastaus</span></p>",
+    "id":633,
+    "title":"Mikä on oletushakukone?"
+  },{
+    "answer_desc":"Kun luet lehden näköisversiota verkossa, näet kopion paperilehdestä. Se ei päivity \"oikean\" digilehden tapaan. Mainokset ja värit näkyvät kyllä.",
+    "choises":[{
+      "is_true":true,
+      "title":"samalta kuin paperinen lehti"
+    },{
+      "is_true":false,
+      "title":"mainokset puuttuvat"
+    },{
+      "is_true":false,
+      "title":"se on mustavalkoinen"
+    }],
+    "feedback":"<p><span class=\"correct hidden\"><i class=\"fa fa-check\"></i></span><span class=\"incorrect hidden\"><i class=\"fa fa-times\"></i></span><span class=\"answer_text correct hidden\">Oikea vastaus!</span><span class=\"answer_text incorrect hidden\">Väärä vastaus</span></p>",
+    "id":644,
+    "title":"Miltä näköislehti näyttää?"
+  },{
+    "answer_desc":"Lähimaksu kortilla tai kännykällä tapahtuu langattomasti, lukulaitteen lähietäisyydeltä. Tunnuslukua ei tarvitse kirjoittaa kuin harvakseen: Turvallisuuden takia maksupääte vaatii aika ajoin näppäilemään tunnusluvun.",
+    "choises":[{
+      "is_true":true,
+      "title":"langattomasti"
+    },{
+      "is_true":false,
+      "title":"ostaja ja myyjä tapaavat kasvokkain"
+    },{
+      "is_true":false,
+      "title":"tunnusluvun avulla"
+    }],
+    "feedback":"<p><span class=\"correct hidden\"><i class=\"fa fa-check\"></i></span><span class=\"incorrect hidden\"><i class=\"fa fa-times\"></i></span><span class=\"answer_text correct hidden\">Oikea vastaus!</span><span class=\"answer_text incorrect hidden\">Väärä vastaus</span></p>",
+    "id":655,
+    "title":"Miten lähimaksu toimii?"
+  },{
+    "answer_desc":"Ilmaus on väännös englannin sanoista copy + paste.",
+    "choises":[{
+      "is_true":true,
+      "title":"kopioi ja liitä"
+    },{
+      "is_true":false,
+      "title":"valitse ja poista"
+    },{
+      "is_true":false,
+      "title":"alleviivaa"
+    }],
+    "feedback":"<p><span class=\"correct hidden\"><i class=\"fa fa-check\"></i></span><span class=\"incorrect hidden\"><i class=\"fa fa-times\"></i></span><span class=\"answer_text correct hidden\">Oikea vastaus!</span><span class=\"answer_text incorrect hidden\">Väärä vastaus</span></p>",
+    "id":666,
+    "title":"Mitä tarkoittaa puhekielen sanahirviö kopipeistata?"
+  },{
+    "answer_desc":"Tietotekniikassa ikoni tarkoittaa kuvaketta. Se on pieni kuvasymboli, jota napsauttamalla saa käynnistettyä tietyn toiminnon.",
+    "choises":[{
+      "is_true":true,
+      "title":"kuvake"
+    },{
+      "is_true":false,
+      "title":"taulu"
+    },{
+      "is_true":false,
+      "title":"someidoli"
+    }],
+    "feedback":"<p><span class=\"correct hidden\"><i class=\"fa fa-check\"></i></span><span class=\"incorrect hidden\"><i class=\"fa fa-times\"></i></span><span class=\"answer_text correct hidden\">Oikea vastaus!</span><span class=\"answer_text incorrect hidden\">Väärä vastaus</span></p>",
+    "id":677,
+    "title":"Mikä on ikonin synonyymi?"
+  },{
+    "answer_desc":"Kolmas osapuoli tarkoittaa yleensä yritystä, joka on erikoistunut käyttäytymisen seurantaan tai mainonnan kohdentamiseen verkossa. Ensimmäinen osapuoli on nettisivu, jolla olet. Toinen osapuoli olet sinä itse. Kolmannet osapuolet keräävät tietoa sinusta muun muassa evästeillä.",
+    "choises":[{
+      "is_true":true,
+      "title":"toimintaasi seuraavia yrityksiä"
+    },{
+      "is_true":false,
+      "title":"kavereiden kavereita"
+    },{
+      "is_true":false,
+      "title":"maksutapoja"
+    }],
+    "feedback":"<p><span class=\"correct hidden\"><i class=\"fa fa-check\"></i></span><span class=\"incorrect hidden\"><i class=\"fa fa-times\"></i></span><span class=\"answer_text correct hidden\">Oikea vastaus!</span><span class=\"answer_text incorrect hidden\">Väärä vastaus</span></p>",
+    "id":688,
+    "title":"Mitä \"kolmannet osapuolet\" ovat?"
+  },{
+    "answer_desc":"\"Influensseri\" on vaikutusvaltainen hahmo sosiaalisessa mediassa – esimerkiksi kohderyhmällä tai seuraajamäärillä mitattuna.",
+    "choises":[{
+      "is_true":true,
+      "title":"some-vaikuttajaa"
+    },{
+      "is_true":false,
+      "title":"virusten torjuntaan erikoistunutta"
+    },{
+      "is_true":false,
+      "title":"keskustelupalstojen häirikköä"
+    }],
+    "feedback":"<p><span class=\"correct hidden\"><i class=\"fa fa-check\"></i></span><span class=\"incorrect hidden\"><i class=\"fa fa-times\"></i></span><span class=\"answer_text correct hidden\">Oikea vastaus!</span><span class=\"answer_text incorrect hidden\">Väärä vastaus</span></p>",
+    "id":699,
+    "title":"Mitä tarkoittaa influensseri?"
+  },{
+    "answer_desc":"Striimauksessa videota tai ääntä siirretään jatkuvana vírtana samalla kun sitä käytetään. Suoratoiston vastapari on tiedoston, esimerkiksi elokuvan lataaminen omalle laitteelle ja katsominen vasta sitten. Striimi voi olla live-lähetys – tai sitten ei.",
+    "choises":[{
+      "is_true":true,
+      "title":"suoratoistoa"
+    },{
+      "is_true":false,
+      "title":"live-lähetystä"
+    },{
+      "is_true":false,
+      "title":"wifi-verkon käyttöä"
+    }],
+    "feedback":"<p><span class=\"correct hidden\"><i class=\"fa fa-check\"></i></span><span class=\"incorrect hidden\"><i class=\"fa fa-times\"></i></span><span class=\"answer_text correct hidden\">Oikea vastaus!</span><span class=\"answer_text incorrect hidden\">Väärä vastaus</span></p>",
+    "id":700,
+    "title":"Mitä tarkoittaa striimaus?"
+  },{
+    "answer_desc":"Termi liitetään yleensä sosiaaliseen mediaan. Se tarkoittaa ärsyyntymistä tai mielipahan kokemista ja kärjekästä reagointia sen seurauksena.",
+    "choises":[{
+      "is_true":true,
+      "title":"provosoitumista"
+    },{
+      "is_true":false,
+      "title":"huijatuksi joutumista"
+    },{
+      "is_true":false,
+      "title":"tiedonhakua"
+    }],
+    "feedback":"<p><span class=\"correct hidden\"><i class=\"fa fa-check\"></i></span><span class=\"incorrect hidden\"><i class=\"fa fa-times\"></i></span><span class=\"answer_text correct hidden\">Oikea vastaus!</span><span class=\"answer_text incorrect hidden\">Väärä vastaus</span></p>",
+    "id":711,
+    "title":"Mitä on triggeröityminen?"
+  },{
+    "answer_desc":"Signal on yksityisyyttä painottava pikaviestipalvelu. Drive on Googlen pilvipalvelu. Meet on Googlen videopuhelualusta.",
+    "choises":[{
+      "is_true":true,
+      "title":"Signal"
+    },{
+      "is_true":false,
+      "title":"Drive"
+    },{
+      "is_true":false,
+      "title":"Meet"
+    }],
+    "feedback":"<p><span class=\"correct hidden\"><i class=\"fa fa-check\"></i></span><span class=\"incorrect hidden\"><i class=\"fa fa-times\"></i></span><span class=\"answer_text correct hidden\">Oikea vastaus!</span><span class=\"answer_text incorrect hidden\">Väärä vastaus</span></p>",
+    "id":722,
+    "title":"Mikä näistä ei ole Googlen palvelu?"
+  },{
+    "answer_desc":"Reddit.com on suosittu keskustelualusta, jossa jaetaan muun muassa linkkejä ja meemejä. Suurin osa käyttäjistä esiintyy nimimerkillä.",
+    "choises":[{
+      "is_true":true,
+      "title":"keskustelualusta"
+    },{
+      "is_true":false,
+      "title":"Youtube-kanava"
+    },{
+      "is_true":false,
+      "title":"räiskintäpeli"
+    }],
+    "feedback":"<p><span class=\"correct hidden\"><i class=\"fa fa-check\"></i></span><span class=\"incorrect hidden\"><i class=\"fa fa-times\"></i></span><span class=\"answer_text correct hidden\">Oikea vastaus!</span><span class=\"answer_text incorrect hidden\">Väärä vastaus</span></p>",
+    "id":733,
+    "title":"Mikä Reddit on?"
+  },{
+    "answer_desc":"Meemi on sosiaalisessa mediassa laajasti leviävä viesti, joka yhdistelee kuvaa, tekstiä tai videota – useimmiten huumorilla.",
+    "choises":[{
+      "is_true":true,
+      "title":"nopeasti leviävää, usein humoristista sisältöä"
+    },{
+      "is_true":false,
+      "title":"nimimerkin taakse kätkeytyvää"
+    },{
+      "is_true":false,
+      "title":"virtuaalilemmikkiä"
+    }],
+    "feedback":"<p><span class=\"correct hidden\"><i class=\"fa fa-check\"></i></span><span class=\"incorrect hidden\"><i class=\"fa fa-times\"></i></span><span class=\"answer_text correct hidden\">Oikea vastaus!</span><span class=\"answer_text incorrect hidden\">Väärä vastaus</span></p>",
+    "id":744,
+    "title":"Mitä meemi tarkoittaa?"
+  },{
+    "answer_desc":"Oma luottokielto on itselle asetettu merkintä, joka estää tekemästä luotollisia ostoksia. Se antaa suojaa henkilötietojen väärinkäytöltä.",
+    "choises":[{
+      "is_true":true,
+      "title":"en voi enää ostaa luotolla"
+    },{
+      "is_true":false,
+      "title":"saan lisäaikaa pikavippien maksulle"
+    },{
+      "is_true":false,
+      "title":"pankkiasiakkuuteni päättyy"
+    }],
+    "feedback":"<p><span class=\"correct hidden\"><i class=\"fa fa-check\"></i></span><span class=\"incorrect hidden\"><i class=\"fa fa-times\"></i></span><span class=\"answer_text correct hidden\">Oikea vastaus!</span><span class=\"answer_text incorrect hidden\">Väärä vastaus</span></p>",
+    "id":755,
+    "title":"Mitä tapahtuu, kun teen netissä oman luottokiellon?"
+  },{
+    "answer_desc":"Deepfake eli syväväärennös on aidolta vaikuttava videoväärennös. Se on tuotettu keinotekoisesti yhdistelemällä kuvia ja videoita koneoppivan tekoälyn avulla.",
+    "choises":[{
+      "is_true":true,
+      "title":"videoväärennöstä"
+    },{
+      "is_true":false,
+      "title":"sukellusvenepeliä"
+    },{
+      "is_true":false,
+      "title":"huijausverkkokauppaa"
+    }],
+    "feedback":"<p><span class=\"correct hidden\"><i class=\"fa fa-check\"></i></span><span class=\"incorrect hidden\"><i class=\"fa fa-times\"></i></span><span class=\"answer_text correct hidden\">Oikea vastaus!</span><span class=\"answer_text incorrect hidden\">Väärä vastaus</span></p>",
+    "id":766,
+    "title":"Mitä deep fake tarkoittaa?"
+  }  ,{
+    "answer_desc":"Digikielessä ekosysteemi tarkoittaa laitteiden, tekniikan tai ohjelmistojen verkottumista keskenään. Esimerkiksi Apple ja Google ovat taitavia sitouttamaan käyttäjät ekosysteeminsä laitteisiin ja palveluihin. ",
+    "choises":[{
+      "is_true":true,
+      "title":"yhden toimijan palvelujen verkostoa"
+    },{
+      "is_true":false,
+      "title":"energiatehokkaita laitteita"
+    },{
+      "is_true":false,
+      "title":"Elokapinan nettisivuja"
+    }],
+    "feedback":"<p><span class=\"correct hidden\"><i class=\"fa fa-check\"></i></span><span class=\"incorrect hidden\"><i class=\"fa fa-times\"></i></span><span class=\"answer_text correct hidden\">Oikea vastaus!</span><span class=\"answer_text incorrect hidden\">Väärä vastaus</span></p>",
+    "id":77,
+    "title":"Mitä ekosysteemi tarkoittaa digikielessä?"
+  },{
+    "answer_desc":"EU suunnittelee digitaalista identiteettilompakkoa, johon voisi tallentaa esimerkiksi ajokortin tai hygieniapassin.",
+    "choises":[{
+      "is_true":true,
+      "title":"sovellus, jolla voi maksaa tai tunnistautua"
+    },{
+      "is_true":false,
+      "title":"sähköistä asiointia vakuutusyhtiössä"
+    },{
+      "is_true":false,
+      "title":"verkkopankin tiliote"
+    }],
+    "feedback":"<p><span class=\"correct hidden\"><i class=\"fa fa-check\"></i></span><span class=\"incorrect hidden\"><i class=\"fa fa-times\"></i></span><span class=\"answer_text correct hidden\">Oikea vastaus!</span><span class=\"answer_text incorrect hidden\">Väärä vastaus</span></p>",
+    "id":78,
+    "title":"Mikä on digilompakko?"
+  },{
+    "answer_desc":"Kun kuvaan on syötetty alt-teksti, näkövammaisen ruudunlukija kertoo hänelle, mitä kuvassa on. Tämä on osa saavutettavuutta eli digimaailman esteettömyyttä. ",
+    "choises":[{
+      "is_true":true,
+      "title":"kuvan kuvailua näkövammaiselle"
+    },{
+      "is_true":false,
+      "title":"videoiden tekstitystä"
+    },{
+      "is_true":false,
+      "title":"pikanäppäinten käyttöä"
+    }],
+    "feedback":"<p><span class=\"correct hidden\"><i class=\"fa fa-check\"></i></span><span class=\"incorrect hidden\"><i class=\"fa fa-times\"></i></span><span class=\"answer_text correct hidden\">Oikea vastaus!</span><span class=\"answer_text incorrect hidden\">Väärä vastaus</span></p>",
+    "id":79,
+    "title":"Mitä tarkoittaa alt-teksti?"
+  },{
+    "answer_desc":"Palvelunestohyökkäyksessä rikolliset kuormittavat palvelua tai tietojärjestelmää ja pyrkivät lamauttamaan sen. He syöttävät palveluun esimerkiksi valtavan määrän viestejä tai kohdistavat siihen muuta liikennettä.",
+    "choises":[{
+      "is_true":true,
+      "title":"verkkoliikenteellä"
+    },{
+      "is_true":false,
+      "title":"tekoälyllä"
+    },{
+      "is_true":false,
+      "title":"avainkoodeilla"
+    }],
+    "feedback":"<p><span class=\"correct hidden\"><i class=\"fa fa-check\"></i></span><span class=\"incorrect hidden\"><i class=\"fa fa-times\"></i></span><span class=\"answer_text correct hidden\">Oikea vastaus!</span><span class=\"answer_text incorrect hidden\">Väärä vastaus</span></p>",
+    "id":80,
+    "title":"Millä palvelunestohyökkääjät hyökkäävät?"
+  },{
+    "answer_desc":"IP-osoite on numerosarja, jolla jokainen internetiin kytketty yksittäinen laite tunnistetaan verkossa. Internet ei toimi ilman IP-osoitteita.",
+    "choises":[{
+      "is_true":true,
+      "title":"netissä olevalle digilaitteelle"
+    },{
+      "is_true":false,
+      "title":"netin itsepuolustuskursseille"
+    },{
+      "is_true":false,
+      "title":"keskipäivällä avautuvaan digipalveluun"
+    }],
+    "feedback":"<p><span class=\"correct hidden\"><i class=\"fa fa-check\"></i></span><span class=\"incorrect hidden\"><i class=\"fa fa-times\"></i></span><span class=\"answer_text correct hidden\">Oikea vastaus!</span><span class=\"answer_text incorrect hidden\">Väärä vastaus</span></p>",
+    "id":81,
+    "title":"Mihin IP-osoite ohjaa?"
+  },{
+    "answer_desc":"Nettiselaimissa voit valita  incognito-tilan eli yksityisen selauksen tilan. Se vähentää selaimen tallentamien tietojen määrää. Esimerkiksi evästeet ja selaushistoria eivät tallennu laitteelle.",
+    "choises":[{
+      "is_true":true,
+      "title":"yksityisen selauksen tila"
+    },{
+      "is_true":false,
+      "title":"liiallisen netinkäytön aiheuttama muistikatko"
+    },{
+      "is_true":false,
+      "title":"yksityinen sometili"
+    }],
+    "feedback":"<p><span class=\"correct hidden\"><i class=\"fa fa-check\"></i></span><span class=\"incorrect hidden\"><i class=\"fa fa-times\"></i></span><span class=\"answer_text correct hidden\">Oikea vastaus!</span><span class=\"answer_text incorrect hidden\">Väärä vastaus</span></p>",
+    "id":82,
+    "title":"Mikä on incognito-tila?"
+  },{
+    "answer_desc":"Kun digilaitteessa tai -palvelussa on biometrinen tunnistus, voit varmentautua sormenjäljellä, kasvojentunnistuksella tai silmän iiriksen tunnistamisella. Se on vaihtoehto numerokoodeille ja salasanoille. ",
+    "choises":[{
+      "is_true":true,
+      "title":"veriryhmä"
+    },{
+      "is_true":false,
+      "title":"sormenjälki"
+    },{
+      "is_true":false,
+      "title":"silmän iiris"
+    }],
+    "feedback":"<p><span class=\"correct hidden\"><i class=\"fa fa-check\"></i></span><span class=\"incorrect hidden\"><i class=\"fa fa-times\"></i></span><span class=\"answer_text correct hidden\">Oikea vastaus!</span><span class=\"answer_text incorrect hidden\">Väärä vastaus</span></p>",
+    "id":83,
+    "title":"Mikä näistä EI ole biometrinen tunnistustapa?"
+  }],
+  "results":[{
+    "id": "eostyyppi",
+    "img":"digitaitosanatesti_EOS-min.jpg",
+    "result":"0/8",
+    "text":"Sinulle EOS (en osaa sanoa) on yleisempi vastaus kuin iOS (käyttöjärjestelmä). Mutta ei siitä stressaamaan kannata ryhtyä - aina voi oppia lisää! Apua saat <a href=\"https://yle.fi/aihe/artikkeli/2019/03/14/mika-ihmeen-selain-kayttis-tai-wifi-digisanasto-selittaa-sanat-selvalla\" target=\"_blank\">digisanastosta</a>.",
+    "title":"EOS-tyyppi"
+  },{
+    "id": "eostyyppi",
+    "img":"digitaitosanatesti_EOS-min.jpg",
+    "result":"1/8",
+    "text":"Sinulle EOS (en osaa sanoa) on yleisempi vastaus kuin iOS (käyttöjärjestelmä). Mutta ei siitä stressaamaan kannata ryhtyä - aina voi oppia lisää! Apua saat <a href=\"https://yle.fi/aihe/artikkeli/2019/03/14/mika-ihmeen-selain-kayttis-tai-wifi-digisanasto-selittaa-sanat-selvalla\" target=\"_blank\">digisanastosta</a>.",
+    "title":"EOS-tyyppi"
+  },{
+    "id": "eostyyppi",
+    "img":"digitaitosanatesti_EOS-min.jpg",
+    "result":"2/8",
+    "text":"Sinulle EOS (en osaa sanoa) on tutumpi kuin iOS (Iphonen käyttöjärjestelmä). Mutta älä turhaan stressaa - aina voi oppia lisää! Apua saat <a href=\"https://yle.fi/aihe/artikkeli/2019/03/14/mika-ihmeen-selain-kayttis-tai-wifi-digisanasto-selittaa-sanat-selvalla\" target=\"_blank\">digisanastosta</a>.",
+    "title":"EOS-tyyppi"
+  },{
+    "id": "it_arvuuttelija",
+    "img":"digitaitosanatesti_IT-arvuuttelija-min.jpg",
+    "result":"3/8",
+    "text":"Digiajan termien suhteen olet ... aika hyvä! Liikut digiviidakossa kuin kala matalikossa: vauhti ei päätä huimaa, mutta toimeen tullaan. Jos haluat päästä väljemmille vesille, tutustu <a href=\"https://yle.fi/aihe/artikkeli/2019/03/14/mika-ihmeen-selain-kayttis-tai-wifi-digisanasto-selittaa-sanat-selvalla\" target=\"_blank\">digisanastoon</a>.",
+    "title":"IT-arvuuttelija"
+  },{
+    "id": "it_arvuuttelija",
+    "img":"digitaitosanatesti_IT-arvuuttelija-min.jpg",
+    "result":"4/8",
+    "text":"Digiajan termien suhteen olet ... aika hyvä! Liikut digiviidakossa kuin kala matalikossa: vauhti ei päätä huimaa, mutta toimeen tullaan. Jos haluat päästä väljemmille vesille, tutustu <a href=\"https://yle.fi/aihe/artikkeli/2019/03/14/mika-ihmeen-selain-kayttis-tai-wifi-digisanasto-selittaa-sanat-selvalla\" target=\"_blank\">digisanastoon</a>.",
+    "title":"IT-arvuuttelija"
+  },{
+    "id": "it_arvuuttelija",
+    "img":"digitaitosanatesti_IT-arvuuttelija-min.jpg",
+    "result":"5/8",
+    "text":"Digiajan termien suhteen olet ... aika hyvä! Liikut digiviidakossa kuin kala matalikossa: vauhti ei päätä huimaa, mutta toimeen tullaan. Jos haluat päästä väljemmille vesille, tutustu <a href=\"https://yle.fi/aihe/artikkeli/2019/03/14/mika-ihmeen-selain-kayttis-tai-wifi-digisanasto-selittaa-sanat-selvalla\" target=\"_blank\">digisanastoon</a>.",
+    "title":"IT-arvuuttelija"
+  },{
+    "id": "mikrotukihenkilo",
+    "img":"digitaitosanatesti_Mikrotukihenkilo-min.jpg",
+    "result":"6/8",
+    "text":"Olet digiajan termien suhteen nokkela kuin orava. Annat kavereillekin mikrotukea. Pientä hienosäätöä, niin saavutat visassa täydet pisteet. Hienosäädössä sinua auttaa <a href=\"https://yle.fi/aihe/artikkeli/2019/03/14/mika-ihmeen-selain-kayttis-tai-wifi-digisanasto-selittaa-sanat-selvalla\" target=\"_blank\">digisanasto</a>.",
+    "title":"Mikrotukihenkilö"
+  },{
+    "id": "mikrotukihenkilo",
+    "img":"digitaitosanatesti_Mikrotukihenkilo-min.jpg",
+    "result":"7/8",
+    "text":"Olet digiajan termien suhteen nokkela kuin orava. Annat kavereillekin mikrotukea. Pientä hienosäätöä, niin saavutat visassa täydet pisteet. Hienosäädössä sinua auttaa <a href=\"https://yle.fi/aihe/artikkeli/2019/03/14/mika-ihmeen-selain-kayttis-tai-wifi-digisanasto-selittaa-sanat-selvalla\" target=\"_blank\">digisanasto</a>.",
+    "title":"Mikrotukihenkilö"
+  },{
+    "id": "atkvelho",
+    "img":"digitaitosanatesti_ATK-velho-min.jpg",
+    "result":"8/8",
+    "text":"Olet monelle tuttavallesi digiasioiden ICE-henkilö (In case of Emergency) eli se, jolle soitetaan hädän tullen. Tutustu <a href=\"https://yle.fi/aihe/artikkeli/2019/03/14/mika-ihmeen-selain-kayttis-tai-wifi-digisanasto-selittaa-sanat-selvalla\" target=\"_blank\">digisanastoon</a> ja kerro, jos sieltä puuttuu jokin olennainen sana.",
+    "title":"ATK-velho"
+  }]
+}

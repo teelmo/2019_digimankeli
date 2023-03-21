@@ -1,0 +1,79 @@
+const path = require('path');
+const name = require('./package.json').name;
+const CopyPlugin = require('copy-webpack-plugin');
+const HtmlWebPackPlugin = require('html-webpack-plugin');
+const MiniCssExtractPlugin = require('mini-css-extract-plugin');
+
+module.exports = {
+  entry: {
+    app: './src/index.js'
+  },
+  name:name,
+  module: {
+    rules: [
+      {
+        test: /\.(js|jsx)$/,
+        exclude: /node_modules/,
+        use: {
+          loader: 'babel-loader'
+        }
+      },
+      {
+        test: /\.less$/,
+        use: [
+          {
+            loader: MiniCssExtractPlugin.loader,
+          },
+          {
+            loader: 'css-loader',
+            options: {
+              sourceMap: true,
+              url: false
+            }
+          },
+          {
+            loader: 'less-loader'
+          }
+        ]
+      },
+      {
+        test: /\.css$/,
+        include: /node_modules\//,
+        use: [MiniCssExtractPlugin.loader, 'css-loader'],
+      },
+      {
+        test: /\.(png|jp(e*)g|svg|gif)$/,
+        use: [
+          {
+            loader: 'file-loader',
+            options: {
+              emitFile: false,
+              name:'[path][name].[ext]'
+            }
+          }
+        ]
+      }
+    ]
+  },
+  output: {
+    filename: 'js/' + name + '.[contenthash].min.js',
+    path: path.resolve(__dirname, './public'),
+    clean: true
+  },
+  plugins: [
+    new MiniCssExtractPlugin({
+    }),
+    new HtmlWebPackPlugin({
+      title: name,
+      template: "./src/html/index.html",
+      filename: "./index.html"
+    }),
+    new CopyPlugin({
+      patterns: [
+        { from: 'assets/data/data.json', to: '../public/assets/data/2019_digimankeli_data.json', noErrorOnMissing: true, globOptions: { dot: true, gitignore: true, ignore: ['**/.DS_Store'] }},
+        { from: 'src/font/', to: '../public/font/', noErrorOnMissing: true, globOptions: { dot: true, gitignore: true, ignore: ['**/.DS_Store'] }},
+        { from: './favicon.png', to: '../public', noErrorOnMissing: true, globOptions: { dot: true, gitignore: true, ignore: ['**/.DS_Store'] }}
+      ]
+    })
+  ]
+};
