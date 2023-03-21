@@ -27,14 +27,14 @@ function App() {
   };
 
   const getDataPath = () => {
-    if (window.location.href.includes('github')) return './assets/data/';
-    if (process.env.NODE_ENV === 'production') return 'https://lusi-dataviz.ylestatic.fi/2019_digimankeli/assets/data';
-    return 'assets/data';
+    if (window.location.href.includes('github')) return './assets';
+    if (process.env.NODE_ENV === 'production') return 'https://lusi-dataviz.ylestatic.fi/2019_digimankeli/assets';
+    return 'assets';
   };
 
   const initMediaUrls = useCallback(() => {
     $.each($('.handle_img', plus), (i, el) => {
-      $(el).attr('src', `${getDataPath()}/assets/img/${$(el).attr('data-src')}`);
+      $(el).attr('src', `${getDataPath()}/img/${$(el).attr('data-src')}`);
     });
   }, []);
 
@@ -82,7 +82,7 @@ function App() {
       }
       const correct_count = countCorrect();
       updateSomeLinks(correct_count);
-      $('.result', plus).html(`<h1>Sait ${correct_count}/8 oikein. Olet ${data.results[correct_count].title}</h1><p> ${data.results[correct_count].text}</p><p><img src="${getDataPath}/assets/img/${data.results[correct_count].img}" alt="Tuloskuva" /></p>`);
+      $('.result', plus).html(`<h1>Sait ${correct_count}/8 oikein. Olet ${data.results[correct_count].title}</h1><p> ${data.results[correct_count].text}</p><p><img src="${getDataPath()}/img/${data.results[correct_count].img}" alt="Tuloskuva" /></p>`);
       $('.result_container', plus).show();
 
       // Disable inputs.
@@ -175,7 +175,7 @@ function App() {
   }, []);
 
   useEffect(() => {
-    fetch(`${getDataPath()}/2019_digimankeli_data.json`).then((response) => {
+    fetch(`${getDataPath()}/data/2019_digimankeli_data.json`).then((response) => {
       if (!response.ok) {
         throw Error(response.statusText);
       }
@@ -190,6 +190,7 @@ function App() {
     <div className="app">
       <div className="questions">Ladataan...</div>
       <div className="result_container">
+        <div className="result" />
         <div className="share_container hidden">
           Jaa tuloksesi
           {' '}

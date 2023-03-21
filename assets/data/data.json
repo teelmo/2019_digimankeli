@@ -270,7 +270,7 @@
     "id":188,
     "title":"Mikä on konsoli?"
   },{
-    "answer_desc":"Rekisteröityminen tehdään periaatteessa vain kerran - kun verkkopalveluun luodaan omat tunnukset. Tunnuksilla kirjaudutaan palveluun aina, kun siellä halutaan asioida. Tunnuksiin kuuluu salasana, joka on luotu rekisteröityessä. Kirjautuessa siis tarvitaan salasana.",
+    "answer_desc":"Rekisteröityminen tehdään periaatteessa vain kerran – kun verkkopalveluun luodaan omat tunnukset. Tunnuksilla kirjaudutaan palveluun aina, kun siellä halutaan asioida. Tunnuksiin kuuluu salasana, joka on luotu rekisteröityessä. Kirjautuessa siis tarvitaan salasana.",
     "choises":[{
       "is_true":true,
       "title":"rekisteröityminen tehdään vain kerran, kirjautuminen aina uudestaan"
@@ -375,7 +375,7 @@
     "id":255,
     "title":"Mitä sinivalo tekee?"
   },{
-    "answer_desc":"Näistä vain Firefox - myös Mozilla Firefoxina tunnettu - on selain. Atari on videopelifirma. Google on monialayritys ja se omistaa Chrome-selaimen.",
+    "answer_desc":"Näistä vain Firefox – myös Mozilla Firefoxina tunnettu – on selain. Atari on videopelifirma. Google on monialayritys ja se omistaa Chrome-selaimen.",
     "choises":[{
       "is_true":true,
       "title":"Firefox"
@@ -765,7 +765,7 @@
     "id":511,
     "title":"Mitä tarkoittaa deletointi?"
   },{
-    "answer_desc":"Arkisessa digikielessä portti tarkoittaa liitäntää, johon toinen laite yhdistetään - yleensä johdolla. Yleisimpiä ovat USB- ja HDMI-portit. Television takana on useimmiten monta HDMI-porttia. URL on verkkosivun sijainnin ilmaiseva tunnus.",
+    "answer_desc":"Arkisessa digikielessä portti tarkoittaa liitäntää, johon toinen laite yhdistetään – yleensä johdolla. Yleisimpiä ovat USB- ja HDMI-portit. Television takana on useimmiten monta HDMI-porttia. URL on verkkosivun sijainnin ilmaiseva tunnus.",
     "choises":[{
       "is_true":true,
       "title":"URL"
@@ -900,7 +900,7 @@
     "id":600,
     "title":"Mikä näistä on tiedostomuodoista viittaa kuvatiedostoon?"
   },{
-    "answer_desc":"Trollaus on verkkohäiriköintiä: Internetin palveluihin lähetetään viestejä, joiden tarkoituksena on saada muut käyttäjät reagoimaan voimakkaasti. Se tarkoittaa myös tarkoitushakuista vaikuttamista mielipiteisiin - erityisesti sosiaalisessa mediassa.",
+    "answer_desc":"Trollaus on verkkohäiriköintiä: Internetin palveluihin lähetetään viestejä, joiden tarkoituksena on saada muut käyttäjät reagoimaan voimakkaasti. Se tarkoittaa myös tarkoitushakuista vaikuttamista mielipiteisiin – erityisesti sosiaalisessa mediassa.",
     "choises":[{
       "is_true":true,
       "title":"verkkohäiriköintiä"
@@ -1249,19 +1249,19 @@
     "id": "eostyyppi",
     "img":"digitaitosanatesti_EOS-min.jpg",
     "result":"0/8",
-    "text":"Sinulle EOS (en osaa sanoa) on yleisempi vastaus kuin iOS (käyttöjärjestelmä). Mutta ei siitä stressaamaan kannata ryhtyä - aina voi oppia lisää! Apua saat <a href=\"https://yle.fi/aihe/artikkeli/2019/03/14/mika-ihmeen-selain-kayttis-tai-wifi-digisanasto-selittaa-sanat-selvalla\" target=\"_blank\">digisanastosta</a>.",
+    "text":"Sinulle EOS (en osaa sanoa) on yleisempi vastaus kuin iOS (käyttöjärjestelmä). Mutta ei siitä stressaamaan kannata ryhtyä – aina voi oppia lisää! Apua saat <a href=\"https://yle.fi/aihe/artikkeli/2019/03/14/mika-ihmeen-selain-kayttis-tai-wifi-digisanasto-selittaa-sanat-selvalla\" target=\"_blank\">digisanastosta</a>.",
     "title":"EOS-tyyppi"
   },{
     "id": "eostyyppi",
     "img":"digitaitosanatesti_EOS-min.jpg",
     "result":"1/8",
-    "text":"Sinulle EOS (en osaa sanoa) on yleisempi vastaus kuin iOS (käyttöjärjestelmä). Mutta ei siitä stressaamaan kannata ryhtyä - aina voi oppia lisää! Apua saat <a href=\"https://yle.fi/aihe/artikkeli/2019/03/14/mika-ihmeen-selain-kayttis-tai-wifi-digisanasto-selittaa-sanat-selvalla\" target=\"_blank\">digisanastosta</a>.",
+    "text":"Sinulle EOS (en osaa sanoa) on yleisempi vastaus kuin iOS (käyttöjärjestelmä). Mutta ei siitä stressaamaan kannata ryhtyä – aina voi oppia lisää! Apua saat <a href=\"https://yle.fi/aihe/artikkeli/2019/03/14/mika-ihmeen-selain-kayttis-tai-wifi-digisanasto-selittaa-sanat-selvalla\" target=\"_blank\">digisanastosta</a>.",
     "title":"EOS-tyyppi"
   },{
     "id": "eostyyppi",
     "img":"digitaitosanatesti_EOS-min.jpg",
     "result":"2/8",
-    "text":"Sinulle EOS (en osaa sanoa) on tutumpi kuin iOS (Iphonen käyttöjärjestelmä). Mutta älä turhaan stressaa - aina voi oppia lisää! Apua saat <a href=\"https://yle.fi/aihe/artikkeli/2019/03/14/mika-ihmeen-selain-kayttis-tai-wifi-digisanasto-selittaa-sanat-selvalla\" target=\"_blank\">digisanastosta</a>.",
+    "text":"Sinulle EOS (en osaa sanoa) on tutumpi kuin iOS (Iphonen käyttöjärjestelmä). Mutta älä turhaan stressaa – aina voi oppia lisää! Apua saat <a href=\"https://yle.fi/aihe/artikkeli/2019/03/14/mika-ihmeen-selain-kayttis-tai-wifi-digisanasto-selittaa-sanat-selvalla\" target=\"_blank\">digisanastosta</a>.",
     "title":"EOS-tyyppi"
   },{
     "id": "it_arvuuttelija",
