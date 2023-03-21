@@ -9,13 +9,13 @@
   },
   "scripts": {
     "build": "NODE_ENV=production webpack --config webpack.prod.js",
-    "list-some-configs": "yle asu lusi-aws-yle \"aws s3 ls s3://lusi-dataviz-prod/share_configs/\"",
-    "list-some-files": "yle asu lusi-aws-yle \"aws s3 ls s3://lusi-dataviz-prod/share/2019_muistitesti/\"",
+    "list-some-configs": "aws s3 ls s3://lusi-dataviz-prod/share_configs/ --profile lusi-aws-yle",
+    "list-some-files": "aws s3 ls s3://lusi-dataviz-prod/share/digimankeli/ --profile lusi-aws-yle",
     "push": "git push && git push yle main",
     "start": "webpack serve --open --config webpack.dev.js",
     "sync-gh-pages": "git subtree push --prefix public origin gh-pages",
-    "sync-prod": "npm run build && dataviz-deploy generate --dir public && dataviz-deploy sync lusi 2019_muistitesti --folder public",
-    "sync-share-config": "cd data && yle asu lusi-aws-yle \"aws s3 sync . s3://lusi-dataviz-prod/share_configs --exclude='*' --include='2019_muistitesti.json'\""
+    "sync-prod": "npm run build && dataviz-deploy generate --dir public && dataviz-deploy sync lusi 2019_digimankeli --folder public",
+    "sync-share-config": "cd assets/resources && aws s3 sync . s3://lusi-dataviz-prod/share_configs --exclude='*' --include='digimankeli.json' --profile lusi-aws-yle"
   },
   "keywords": [],
   "author": "",

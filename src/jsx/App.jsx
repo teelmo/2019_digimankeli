@@ -82,7 +82,7 @@ function App() {
       }
       const correct_count = countCorrect();
       updateSomeLinks(correct_count);
-      $('.result', plus).html(`<h1>Sait ${correct_count}/8 oikein. Olet ${data.results[correct_count].title}</h1><p> ${data.results[correct_count].text}</p><p><img src="${getDataPath()}/img/${data.results[correct_count].img}" alt="Tuloskuva" /></p>`);
+      $('.result', plus).html(`<h2>Sait ${correct_count}/8 oikein. Olet ${data.results[correct_count].title}</h2><p> ${data.results[correct_count].text}</p><p><img src="${getDataPath()}/img/${data.results[correct_count].img}" alt="Tuloskuva" /></p>`);
       $('.result_container', plus).show();
 
       // Disable inputs.
@@ -200,6 +200,7 @@ function App() {
           {' '}
           <a href={facebookLink} target="_blank" onClick={(event) => shareButton(event)} rel="noreferrer">Facebookissa</a>
           .
+          <div className="button_container"><a href="https://yle.fi/aihe/artikkeli/2019/03/25/tee-digisanatesti-ja-selvita-millainen-digivelho-sinussa-asuu">Tee uudelleen!</a></div>
         </div>
       </div>
     </div>
