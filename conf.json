@@ -1,0 +1,13 @@
+{
+  "mainfile": "dataviz.html",
+  "js": [
+    "js/2019_digimankeli.f49dd4a003109c889100.min.js"
+  ],
+  "css": [
+    "app.css",
+    "css/2019_digimankeli.e5df727e28408e532be5.min.css",
+    "font/fonts.css"
+  ],
+  "darkMode": false,
+  "externalContent": true
+}
