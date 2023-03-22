@@ -82,7 +82,7 @@ function App() {
       }
       const correct_count = countCorrect();
       updateSomeLinks(correct_count);
-      $('.result', plus).html(`<h2>Sait ${correct_count}/8 oikein. Olet ${data.results[correct_count].title}</h2><p> ${data.results[correct_count].text}</p><p><img src="${getDataPath()}/img/${data.results[correct_count].img}" alt="Tuloskuva" /></p>`);
+      $('.result', plus).html(`<h2>Sait ${correct_count}/8 oikein. Olet ${data.results[correct_count].title}</h2><p> ${data.results[correct_count].text}.</p><p><img src="${getDataPath()}/img/${data.results[correct_count].img}" alt="Tuloskuva" /></p>`);
       $('.result_container', plus).show();
 
       // Disable inputs.
