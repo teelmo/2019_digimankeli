@@ -4,9 +4,10 @@
     "js/2019_digimankeli.8c2add8f3e768d234f76.min.js"
   ],
   "css": [
-    "css/2019_digimankeli.e5df727e28408e532be5.min.css",
-    "font/fonts.css"
+    "font/fonts.css",
+    "css/2019_digimankeli.e5df727e28408e532be5.min.css"
   ],
   "darkMode": false,
-  "externalContent": true
+  "externalContent": true,
+  "darkModeCss": []
 }
